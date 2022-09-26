@@ -1,17 +1,16 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.40bd3504.css",
-    "main.js": "/react-portfolio/static/js/main.89f70105.js",
-    "static/media/iwouldntmind.jpg": "/react-portfolio/static/media/iwouldntmind.f8a58f90b8ff2d2e07eb.jpg",
-    "static/media/owlcity.jpg": "/react-portfolio/static/media/owlcity.d42a59ddd0bc33e992f6.jpg",
-    "static/media/sws.jpg": "/react-portfolio/static/media/sws.c36ac9f85b3c84f7c19a.jpg",
+    "main.css": "/react-portfolio/static/css/main.8e4c75c7.css",
+    "main.js": "/react-portfolio/static/js/main.e56d9243.js",
     "static/media/lilborderthing.png": "/react-portfolio/static/media/lilborderthing.f7522bd9af9c6cdd21e9.png",
+    "static/media/coding-challenge.png": "/react-portfolio/static/media/coding-challenge.23f92778b707e9cc7236.png",
+    "static/media/password-generator.png": "/react-portfolio/static/media/password-generator.b2c8373298ff1a648aab.png",
     "index.html": "/react-portfolio/index.html",
-    "main.40bd3504.css.map": "/react-portfolio/static/css/main.40bd3504.css.map",
-    "main.89f70105.js.map": "/react-portfolio/static/js/main.89f70105.js.map"
+    "main.8e4c75c7.css.map": "/react-portfolio/static/css/main.8e4c75c7.css.map",
+    "main.e56d9243.js.map": "/react-portfolio/static/js/main.e56d9243.js.map"
   },
   "entrypoints": [
-    "static/css/main.40bd3504.css",
-    "static/js/main.89f70105.js"
+    "static/css/main.8e4c75c7.css",
+    "static/js/main.e56d9243.js"
   ]
 }
